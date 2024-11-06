@@ -7,7 +7,7 @@ class MonacoEditor extends Simplicite.UI.ExternalObject {
 				require.config({ paths: { 'vs': 'https://unpkg.com/monaco-editor@latest/min/vs' }});
 
 				require([ 'vs/editor/editor.main' ], () => {
-					const container = document.getElementById('monacoeditor');
+					const container = document.getElementById('monaco-editor');
 					container.innerHTML = '';
 
 					const editor = monaco.editor.create(container, {

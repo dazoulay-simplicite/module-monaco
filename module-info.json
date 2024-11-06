@@ -1,9 +1,9 @@
 {
-    "date": "2024-11-06 14:55:27",
+    "date": "2024-11-06 15:34:19",
     "name": "Monaco",
     "format": "xml",
     "files": ["Monaco.xml"],
     "repository": {"origin": {"uri": "https://github.com/dazoulay-simplicite/module-monaco.git"}},
     "version": "6",
-    "platform": "6.2.0-alpha"
+    "platform": "6.1.14-preview"
 }
