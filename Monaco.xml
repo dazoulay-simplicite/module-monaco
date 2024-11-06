@@ -59,7 +59,7 @@
 		<obe_nature>com_simplicite_webapp_web_ResponsiveExternalObject</obe_nature>
 		<obe_url/>
 		<obe_settings/>
-		<obe_comment/>
+		<obe_comment><![CDATA[Simple Monaco editor]]></obe_comment>
 		<obe_help/>
 		<obe_class>com.simplicite.webapp.web.ResponsiveExternalObject</obe_class>
 		<obe_script_id/>

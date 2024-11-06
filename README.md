@@ -16,6 +16,6 @@
 `MonacoEditor` external object definition
 -----------------------------------------
 
-
+Simple Monaco editor
 
 
