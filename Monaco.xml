@@ -8,12 +8,10 @@
 		<mdl_version>6</mdl_version>
 		<mdl_prefix>monaco</mdl_prefix>
 		<mdl_url><![CDATA[{
-	"origin": {
-		"uri": "https://github.com/dazoulay-simplicite/module-monaco.git"
-	},
-	"type": "git"
+    "origin": {"uri": "https://github.com/dazoulay-simplicite/module-monaco.git"},
+    "type": "git"
 }]]></mdl_url>
-		<mdl_type>X</mdl_type>
+		<mdl_type>T</mdl_type>
 		<mdl_comment/>
 	</data>
 </object>
